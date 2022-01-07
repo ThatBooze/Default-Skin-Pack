@@ -1,6 +1,8 @@
 # Default-Skin-Pack
 Ported Minecraft Default Skin Pack to Figura.
 
+Downloads can be found here: https://github.com/MBooze/Default-Skin-Pack/tags
+
 The folder contains the following skins: Dummy, Steve, Steve Dev, Alex, Alex Dev.
 
 THIS SKIN PACK IS MADE FOR THE MOD FIGURA, TO DOWNLOAD FIGURA GO HERE: https://discord.gg/blancworks
