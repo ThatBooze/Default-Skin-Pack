@@ -8,7 +8,7 @@ THIS SKIN PACK IS MADE FOR THE MOD FIGURA, TO DOWNLOAD FIGURA GO HERE: https://d
 To use this `Skin Pack` the steps are below:
 
 - 1. Download the `.zip` file.
-- 2. Unzip the `Default Skin Pack Figura` folder.
+- 2. Unzip the `Default Skin Pack` folder.
 - 3. Move the folder to `.minecraft/figura/model_files/`.
 - 4. Open `Minecraft Java Edition`.
 - 5. Open a `world` or join a `server`.
