@@ -5,7 +5,8 @@ Downloads can be found here: https://github.com/MBooze/Default-Skin-Pack/tags
 
 The folder contains the following skins: Dummy, Steve, Steve Dev, Alex, Alex Dev.
 
-THIS SKIN PACK IS MADE FOR THE MOD FIGURA, TO DOWNLOAD FIGURA GO HERE: https://discord.gg/blancworks
+THIS SKIN PACK IS MADE FOR THE MOD FIGURA, TO DOWNLOAD FIGURA GO HERE: https://modrinth.com/mod/figura
+(!) ALSO, THIS IS ONLY AN `0.0.8` SKIN PACK, PLEASE DON'T ASK ME FOR A REWRITE PACK (!)
 
 To use this `Skin Pack` the steps are below:
 
